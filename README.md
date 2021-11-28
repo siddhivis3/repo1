@@ -12,4 +12,4 @@ window.alert('This is a Alert Box');
 ```
 window.prompt('Enter your input');
 ```
-![App Screenshot](https://imgur.com/AfPjvEB)
+![App Screenshot](https://imgur.com/a/9iZ9f7/AfPjvEB)
